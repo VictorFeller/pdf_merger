@@ -1,5 +1,5 @@
 # pdf_merger
-Script Python to merge multiple pdf files.
+Python script to merge multiple pdf files.
 
 1 - Move the script in the folder where your pdf files are situated
 2 - Execute the script (need Python 3 installed and PyPDF2 installed (py -m pip install PyPDF2))
