@@ -13,6 +13,6 @@ merger = PdfFileMerger()
 for pdf in pdfs:
     merger.append(pdf)
 
-merger.write("merge.pdf")
+merger.write("combined.pdf")
 merger.close()
 #os.system("pause")
